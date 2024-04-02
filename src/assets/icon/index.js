@@ -1,0 +1,20 @@
+import IcBack from './Ic_back.svg';
+import IcBackWhite from './Ic_back_white.svg';
+import IcDinas from './Ic_dinas_keluar.svg';
+import IcSearch from './Ic_search.svg';
+import IcRight from './Ic_right.svg';
+import IcRightGreen from './Ic_right_green.svg';
+import IcPlus from './Ic_plus.svg';
+import IcScan from './Ic_scan.svg';
+import IcThumb from './Ic_thumb.svg';
+import IcNew from './Ic_new.svg';
+import IcCancel from './Ic_cancel.svg';
+import IcEdit from './Ic_edit.svg';
+import IcEditWhite from './Ic_edit_white.svg';
+import IcUser from './Ic_user.svg';
+import IcAbsensi from './Ic_absensi.svg';
+import IcCheckIn from './Ic_check_in.svg';
+import IcCheckOut from './Ic_check_out.svg';
+import IcWater from './Ic_water.svg';
+
+export { IcBack, IcDinas, IcSearch, IcRight, IcPlus, IcScan, IcThumb, IcNew, IcBackWhite, IcCancel, IcEdit, IcRightGreen, IcEditWhite, IcUser, IcAbsensi, IcCheckIn, IcCheckOut, IcWater };
